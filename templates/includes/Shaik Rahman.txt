@@ -1,0 +1,25 @@
+Dear Hiring Manager,
+
+I am excited to apply for the Software Engineer III - Python Developer position at JPMorgan Chase & Co. As a seasoned developer with extensive experience in software development and a passion for innovation, I believe I am an ideal fit for this role.
+
+I have a Master's degree in Computer Applications and have worked with various technologies over the years. My expertise lies in Python programming with Django, where I have developed numerous web applications with ease. I have also worked with CI/CD tools like Jenkins and have experience in storage domain management, which I believe makes me an ideal candidate for the role.
+
+In addition to my technical skills, I possess excellent critical thinking, problem-solving, and communication skills that are essential for product delivery. I am experienced in working with diverse teams and can collaborate effectively to achieve common goals. Moreover, I am well-versed in Agile and Lean philosophies, and I am confident that my experience and skills will allow me to excel in the role.
+
+I am excited about the opportunity to work with a curious and inspiring team of technologists at JPMorgan Chase & Co. and be part of developing and deploying large-scale infrastructure solutions that support the company's critical businesses. I am confident that I will make valuable contributions to the team.
+
+Thank you for considering my application. I look forward to discussing my qualifications further with you.
+
+Sincerely,
+
+Shaik Rahman.
+
+
+
+
+
+
+
+
+
+
